@@ -1,0 +1,5 @@
+PyQT5
+mutagen
+pydub
+ffmpeg.exe
+ffprobe.exe
